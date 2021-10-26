@@ -1,0 +1,3 @@
+[submodule "models/pytorch_image_model"]
+	path = models/pytorch_image_model
+	url = https://github.com/rwightman/pytorch-image-models
